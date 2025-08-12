@@ -1,2 +1,2 @@
-<center><img src="demo.gif" width="600" height="400">
-</center>
+<p style="text-align: center;"><img src="demo.gif" width="600" height="400">
+</p>
